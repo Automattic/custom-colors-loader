@@ -1,0 +1,9 @@
+{
+  "name": "custom-colors-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for overwriting calypso base colors in a project-local sass file.",
+  "main": "index.js",
+  "dependencies": {
+    "loader-utils": "^0.2.2"
+  }
+}
