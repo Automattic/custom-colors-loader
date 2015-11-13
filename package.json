@@ -5,6 +5,7 @@
   "main": "index.js",
   "private": true,
   "dependencies": {
-    "loader-utils": "^0.2.2"
+    "loader-utils": "^0.2.2",
+    "object-assign": "^4.0.1"
   }
 }
